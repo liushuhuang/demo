@@ -4,5 +4,6 @@ public class aa {
 	public int aa;
 	void soa(){
 		System.out.println();
+		System.out.println("aaaa");
 	}
 }
