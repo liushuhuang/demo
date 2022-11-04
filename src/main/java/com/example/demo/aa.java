@@ -5,5 +5,6 @@ public class aa {
 	void soa(){
 		System.out.println();
 		System.out.println("aaaa");
+		System.out.println("aa1111aa");
 	}
 }
