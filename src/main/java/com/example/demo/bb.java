@@ -6,7 +6,7 @@ public class bb {
 		System.out.println("bbbbb");
 		System.out.println("ddddd");
 		System.out.println("ccccc");
-		System.out.println();
-		System.out.println();
+		System.out.println("ccccc");
+		System.out.println("ccccc");
 	}
 }
